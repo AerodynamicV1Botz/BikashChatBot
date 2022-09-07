@@ -1,9 +1,9 @@
 # BikashChatBot
 
-### Best Smart Group Chat  Robot For Telegram Groups ...
+### Best Smart Group Chat  Robot For Telegram Groups Click The Picture To Open Bikash Chat Bot...
 
 
-<p align="center"><a href="https://t.me/BikashHalder"><img src="https://te.legra.ph/file/6ba833e98612b73e5b88b.jpg"></a></p>
+<p align="center"><a href="https://t.me/BikashRobot"><img src="https://te.legra.ph/file/6ba833e98612b73e5b88b.jpg"></a></p>
 
 ## Telegram 🏪
 
