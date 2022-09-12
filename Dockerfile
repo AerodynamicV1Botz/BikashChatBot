@@ -4,5 +4,5 @@ RUN apt-get install git curl python3-pip ffmpeg -y
 RUN pip3 install -U pip
 COPY . /bikash/
 WORKDIR /bikash/
-RUN pip3 install -U -r requirements.txt
-CMD python3 main.py
+RUN pip3 install -U -r Installer
+CMD python3 Bikash
