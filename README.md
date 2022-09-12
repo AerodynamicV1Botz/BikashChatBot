@@ -1,5 +1,7 @@
 # BikashChatBot 🌷
 
+# Bikash = main.py
+
 🔥 Best Smart Group Chat  Robot For Telegram Groups 🌷..
 
 
